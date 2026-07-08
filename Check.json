@@ -1,0 +1,10 @@
+{
+  "domains": {
+    "uptolink.one": {
+      "enabled": true
+    },
+    "uptolink.vip": {
+      "enabled": true
+    }
+  }
+}
